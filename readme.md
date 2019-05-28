@@ -1,12 +1,12 @@
-# _{Alexander Kondra and Tae Lee}_
+# _Alexander Kondra and Tae Lee_
 
-#### _{Little blog about Bobcat life}, {28 May 2019}_
+#### _Little blog about Bobcat life, 28 May 2019_
 
-#### By _**{Alexander Kondra and Tae Lee}**_
+#### By _**Alexander Kondra and Tae Lee**_
 
 ## Description
 
-_{Blog about Bobcat Activity and Food they like also includes two pictures. }_
+_Blog about Bobcat Activity and Food they like also includes two pictures. _
 
 ## Setup/Installation Requirements
 
@@ -17,19 +17,19 @@ _{Blog about Bobcat Activity and Food they like also includes two pictures. }_
 
 ## Known Bugs
 
-_{No bugs just simple blog}_
+_No bugs just simple blog_
 
 ## Support and contact details
 
-_{Email : alexanderkondra@icloud.com
-          taebumlee@gmail.com}_
+_Email : alexanderkondra@icloud.com
+          taebumlee@gmail.com_
 
 ## Technologies Used
 
-_{Mac Desktop, HTML}_
+_Mac Desktop, HTML_
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*Determine the license under which this application can be used.  See below for more details on licensing.*
 
-Copyright (c) 2019 **_{Epicodus}_**
+Copyright (c) 2019 **_Epicodus_**
