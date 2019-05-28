@@ -6,7 +6,7 @@
 
 ## Description
 
-_Blog about Bobcat Activity and Food they like also includes two pictures. _
+Blog about Bobcat Activity and Food they like also includes two pictures. 
 
 ## Setup/Installation Requirements
 
